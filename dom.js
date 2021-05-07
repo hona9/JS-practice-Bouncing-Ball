@@ -8,6 +8,7 @@ area.style.margin = "0 auto";
 area.style.border = "1px solid black";
 area.style.position = "relative";
 area.style.backgroundColor = "#efefef";
+area.style.marginTop = "40px";
 
 //ball css
 ball.style.height = "75px";
